@@ -15,4 +15,4 @@ right ML approach (classification, regression, clustering...),
 runs the pipeline, and returns results with explanation.
 
 ## Author
-Anas Eddaif — [LinkedIn](your-linkedin-url)
+Anas Eddaif — [LinkedIn](https://www.linkedin.com/in/anas-eddaif-932139349/)
